@@ -1,0 +1,14 @@
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\bin\Debug\net8.0\Idempontent_Hello_World.exe
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\bin\Debug\net8.0\Idempontent_Hello_World.deps.json
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\bin\Debug\net8.0\Idempontent_Hello_World.runtimeconfig.json
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\bin\Debug\net8.0\Idempontent_Hello_World.dll
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\bin\Debug\net8.0\Idempontent_Hello_World.pdb
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\Idempontent_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\Idempontent_Hello_World.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\Idempontent_Hello_World.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\Idempontent_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\Idempontent_Hello_World.dll
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\refint\Idempontent_Hello_World.dll
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\Idempontent_Hello_World.pdb
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\Idempontent_Hello_World.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\ref\Idempontent_Hello_World.dll
