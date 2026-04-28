@@ -1,16 +1,18 @@
 ﻿
-var idempotencyKey = "hello-world";
-var filePath = "idempotemcy.txt";
+Console.Write("Write a new word: ");
+var newWord = Console.ReadLine()!;
 
-if (HasAlreadyExecuted(filePath, idempotencyKey))
+const string filePath = "idempotemcy.txt";
+
+if (HasAlreadyExecuted(filePath, newWord))
 {
-    Console.WriteLine("Hello world has executed before.");
+    Console.WriteLine($"{newWord} has executed before.");
 	return;
 }
 
-Console.WriteLine("Hello world!");
+Console.WriteLine($"{newWord} inserted");
 
-MarkAsExecuted(filePath, idempotencyKey);
+MarkAsExecuted(filePath, newWord);
 
 static bool HasAlreadyExecuted(string filePath, string key)
 {

@@ -12,3 +12,4 @@ C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_Worl
 C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\Idempontent_Hello_World.pdb
 C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\Idempontent_Hello_World.genruntimeconfig.cache
 C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\ref\Idempontent_Hello_World.dll
+C:\Users\Cliente\Desktop\Estudos\Idempotencia\Hello-World\Idempontent_Hello_World\Idempontent_Hello_World\obj\Debug\net8.0\Idempontent_Hello_World.sourcelink.json

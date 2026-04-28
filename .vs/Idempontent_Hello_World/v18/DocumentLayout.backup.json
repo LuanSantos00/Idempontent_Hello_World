@@ -14,27 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\Desktop\\Estudos\\Idempotencia\\Hello-World\\Idempontent_Hello_World\\Idempontent_Hello_World\\Program.cs",
               "RelativeDocumentMoniker": "Idempontent_Hello_World\\Program.cs",
-              "ToolTip": "C:\\Users\\Cliente\\Desktop\\Estudos\\Idempotencia\\Hello-World\\Idempontent_Hello_World\\Idempontent_Hello_World\\Program.cs*",
-              "RelativeToolTip": "Idempontent_Hello_World\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Cliente\\Desktop\\Estudos\\Idempotencia\\Hello-World\\Idempontent_Hello_World\\Idempontent_Hello_World\\Program.cs",
+              "RelativeToolTip": "Idempontent_Hello_World\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T00:00:40.143Z",
+              "WhenOpened": "2026-04-28T00:02:04.635Z",
               "EditorCaption": ""
             }
           ]
